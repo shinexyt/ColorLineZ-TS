@@ -1,3 +1,3 @@
 # ColorLineZ-TS
-A simple game use html5 canvas by TypeScript.
+A simple html5 canvas game developed by javascript.
 [demo](https://shinexyt.github.io/ColorLineZ-TS/dist/)
